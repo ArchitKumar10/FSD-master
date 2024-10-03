@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.fcontainer {
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+}
+.fitem {
+    background-color: aqua;
+    padding: 10px;
+    border: 3px solid red;
+}
